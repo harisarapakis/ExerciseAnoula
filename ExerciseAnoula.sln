@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30523.141
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExerciseAnoula", "ExerciseAnoula\ExerciseAnoula.csproj", "{4AECC135-9FAE-48AC-AC80-2B9B644346FE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4AECC135-9FAE-48AC-AC80-2B9B644346FE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4AECC135-9FAE-48AC-AC80-2B9B644346FE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4AECC135-9FAE-48AC-AC80-2B9B644346FE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4AECC135-9FAE-48AC-AC80-2B9B644346FE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5215C972-1E7D-48D6-8388-CBCB85481DB5}
+	EndGlobalSection
+EndGlobal
